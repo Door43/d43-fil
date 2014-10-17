@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fil:home|Door43 (fil)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fil|d43-fil repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fil/archive/master.zip|d43-fil.zip]]
+
+**Recent Changes**
+{{changes>ns = fil}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fil|Ethnologue data]]
+
